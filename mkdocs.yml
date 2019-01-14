@@ -1,1 +1,59 @@
-site_name: My Docs
+site_name: 商业数据分析VIP班导学
+site_description: 商业数据分析VIP班导学
+site_author: Udacity & LI YAO
+site_url: https://BANDVIP.github.io/BANDVIP_Tutorial/
+
+
+# Copyright
+copyright: 'Copyright &copy; 2019 Udacity LI YAO'
+
+# Repository
+repo_name: 'BANDVIP/BANDVIP_Tutorial'
+repo_url: 'https://github.com/BANDVIP/BANDVIP_Tutorial'
+edit_uri: 'blob/master/docs/'
+
+
+# Contents
+
+
+# Theme
+theme:
+  name: 'material'
+  language: 'zh'
+  palette:
+    primary: 'indigo'
+    accent: 'red'
+  logo:
+    icon: 'school'
+  feature:
+    tabs: true
+  font:
+    text: 'Fira Sans'
+    code: 'Fira Mono'
+
+# Customization
+extra_javascript:
+  - 'https://cdn.bootcss.com/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'
+
+extra_css:
+  - '_static/css/extra.css'
+# markdown_extensions
+
+
+markdown_extensions:
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
