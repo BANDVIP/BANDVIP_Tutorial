@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# 欢迎
+欢迎学习Udacity商业数据分析课程。
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 学习路径
+1. Udacity
+2. 每周导学
+3. 每周公开课摘要
+4. Udacity论坛BAND板块

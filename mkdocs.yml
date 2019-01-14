@@ -1,5 +1,5 @@
-site_name: 商业数据分析VIP班导学
-site_description: 商业数据分析VIP班导学
+site_name: Udacity商业数据分析VIP班导学
+site_description: Udacity商业数据分析VIP班导学
 site_author: Udacity & LI YAO
 site_url: https://BANDVIP.github.io/BANDVIP_Tutorial/
 
@@ -14,6 +14,15 @@ edit_uri: 'blob/master/docs/'
 
 
 # Contents
+nav:
+  - 首页:
+    - 课程介绍: index.md
+    - 学习方法 : 0.md
+    - 补充资料 : support.md
+  - V1班2019.1.16:
+    - Week1 : 1.md
+
+
 
 
 # Theme
