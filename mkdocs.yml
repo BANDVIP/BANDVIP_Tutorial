@@ -17,11 +17,11 @@ edit_uri: 'blob/master/docs/'
 nav:
   - Induction:
     - Getting Started: index.md
-    - 学习方法 : 0.md
+    - 每周公开课摘要 : 0.md
     - 补充资料 : support.md
-  - V1班2019.1.16:
-    - Week1 学前须知: 1.md
-    - Week2 可视化与信息有效表达: 2.md
+  - 导学文件:
+    - Week1(1.16-1.20) 学前须知: 1.md
+    - Week2(1.21-1.27) 可视化与信息有效表达: 2.md
 
 
 
