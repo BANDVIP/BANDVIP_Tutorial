@@ -2,27 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://BANDVIP.github.io/BANDVIP_Tutorial/</loc>
-     <lastmod>2019-01-16</lastmod>
+     <lastmod>2019-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://BANDVIP.github.io/BANDVIP_Tutorial/0/</loc>
-     <lastmod>2019-01-16</lastmod>
+     <lastmod>2019-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://BANDVIP.github.io/BANDVIP_Tutorial/support/</loc>
-     <lastmod>2019-01-16</lastmod>
+     <lastmod>2019-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://BANDVIP.github.io/BANDVIP_Tutorial/1/</loc>
-     <lastmod>2019-01-16</lastmod>
+     <lastmod>2019-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://BANDVIP.github.io/BANDVIP_Tutorial/2/</loc>
-     <lastmod>2019-01-16</lastmod>
+     <lastmod>2019-01-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://BANDVIP.github.io/BANDVIP_Tutorial/3/</loc>
+     <lastmod>2019-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
