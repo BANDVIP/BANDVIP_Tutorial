@@ -17,7 +17,6 @@ edit_uri: 'blob/master/docs/'
 nav:
   - Induction:
     - Getting Started: index.md
-    - 每周公开课摘要 : 0.md
     - 补充资料 : support.md
   - 导学文件:
     - Week1(1.16-1.20) 学前须知: 1.md
@@ -27,9 +26,10 @@ nav:
     - Week5(2.11-2.17) 分析调查问卷: 5.md
     - Week6(2.18-2.24) 推论统计学: 6.md
     - Week7(2.25-3.3) A/B测试: 7.md
-
-
-
+    - Week8(3.4-3.10) 商业分析问题解决框架: 8.md
+    - Week9(3.11-3.17) Excel线性回归模型: 9.md
+    - Week10(3.18-3.24) 用Excel预测商业决策带来的收益增长: 10.md
+    - Week11(3.25-3.31) 毕业课程第一周: 11.md
 
 
 # Theme
