@@ -4,9 +4,14 @@
 ## 学习路径
 1. [Udacity教室](https://cn.udacity.com)
 2. [每周导学](https://bandvip.github.io/BANDVIP_Tutorial/1/)
-3. [每周公开课摘要](https://bandvip.github.io/BANDVIP_Tutorial/0/)
+3. [Udacity论坛BAND板块](https://discussions.youdaxue.com/)
+<!--3. [每周公开课摘要](https://bandvip.github.io/BANDVIP_Tutorial/0/)
 4. [Udacity论坛BAND板块](https://discussions.youdaxue.com/)
+-->
 
+## 学习须知
+1. 向提问时请尽量使用截图而不是直接拍照
+2. 助教白天可能不能及时答疑，但是晚上一定会回复。
 
 
 ## 颜色主题
