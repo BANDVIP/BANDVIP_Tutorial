@@ -5,14 +5,26 @@
 1. [Udacity教室](https://cn.udacity.com)
 2. [每周导学](https://bandvip.github.io/BANDVIP_Tutorial/1/)
 3. [Udacity论坛BAND板块](https://discussions.youdaxue.com/)
-<!--
-3. [每周公开课摘要](https://bandvip.github.io/BANDVIP_Tutorial/0/)
-4. [Udacity论坛BAND板块](https://discussions.youdaxue.com/)
--->
+
 
 ## 学习须知
 1. 向提问时请尽量使用截图而不是直接拍照
 2. 助教白天可能不能及时答疑，但是晚上一定会回复。
+
+##  课程时间规划
+时间|项目阶段|学习目标
+---|---|---
+Week1| P1|了解课程体系和学习路径
+Week2|P1|完成项目1
+Week3|\ |学习描述统计学
+Week4|P2|学会Excel基本操作、聚合函数、条件函数等高阶操作
+Week5|P2|完成项目2
+Week6|P3|分析问题解决框架
+Week7|P3|线性回归模型
+Week8|P3|完成项目3
+Week9|P4|毕业课程第一周
+Week10|P4|毕业课程第二周
+Week11|P4|毕业课程第三周
 
 <!--
 ## 颜色主题
